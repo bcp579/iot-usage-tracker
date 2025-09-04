@@ -26,8 +26,8 @@ cd iot-usage-tracker
 # Install dependencies
 npm install
 
-# Run the app
-npm start 
+# Start the React Native app (using Expo)
+expo start
 ```
 
 ## 📌 Roadmap
